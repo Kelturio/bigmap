@@ -1,0 +1,26 @@
+OptiPNG version 0.7.6
+Copyright (C) 2001-2016 Cosmin Truta and the Contributing Authors.
+
+** Processing: map18-191105-2257.png
+10240x10240 pixels, 3x8 bits/pixel, RGB
+Input IDAT size = 15146490 bytes
+Input file size = 15168744 bytes
+
+Trying:
+  zc = 9  zm = 8  zs = 0  f = 0		IDAT size = 11228393
+  zc = 9  zm = 8  zs = 1  f = 0		IDAT too big
+  zc = 1  zm = 8  zs = 2  f = 0		IDAT too big
+  zc = 9  zm = 8  zs = 3  f = 0		IDAT too big
+  zc = 9  zm = 8  zs = 0  f = 5		IDAT too big
+  zc = 9  zm = 8  zs = 1  f = 5		IDAT too big
+  zc = 1  zm = 8  zs = 2  f = 5		IDAT too big
+  zc = 9  zm = 8  zs = 3  f = 5		IDAT too big
+
+Selecting parameters:
+  zc = 9  zm = 8  zs = 0  f = 0		IDAT size = 11228393
+
+Output IDAT size = 11228393 bytes (3918097 bytes decrease)
+Output file size = 11228471 bytes (3940273 bytes = 25.98% decrease)
+
+** Status report
+1 file(s) have been processed.

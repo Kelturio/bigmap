@@ -1,0 +1,43 @@
+OptiPNG version 0.7.6
+Copyright (C) 2001-2016 Cosmin Truta and the Contributing Authors.
+
+** Processing: map18-191105-2025-min.png
+10240x10240 pixels, 8 bits/pixel, 195 colors in palette
+Input IDAT size = 6505654 bytes
+Input file size = 6506308 bytes
+
+Trying:
+  zc = 9  zm = 8  zs = 0  f = 0		IDAT too big
+  zc = 9  zm = 8  zs = 1  f = 0		IDAT too big
+  zc = 1  zm = 8  zs = 2  f = 0		IDAT too big
+  zc = 9  zm = 8  zs = 3  f = 0		IDAT too big
+  zc = 9  zm = 8  zs = 0  f = 5		IDAT too big
+  zc = 9  zm = 8  zs = 1  f = 5		IDAT too big
+  zc = 1  zm = 8  zs = 2  f = 5		IDAT too big
+  zc = 9  zm = 8  zs = 3  f = 5		IDAT too big
+
+map18-191105-2025-min.png is already optimized.
+
+** Processing: map18-191105-2025.png
+10240x10240 pixels, 3x8 bits/pixel, RGB
+Input IDAT size = 18836872 bytes
+Input file size = 18864538 bytes
+
+Trying:
+  zc = 9  zm = 8  zs = 0  f = 0		IDAT size = 14056687
+  zc = 9  zm = 8  zs = 1  f = 0		IDAT too big
+  zc = 1  zm = 8  zs = 2  f = 0		IDAT too big
+  zc = 9  zm = 8  zs = 3  f = 0		IDAT too big
+  zc = 9  zm = 8  zs = 0  f = 5		IDAT too big
+  zc = 9  zm = 8  zs = 1  f = 5		IDAT too big
+  zc = 1  zm = 8  zs = 2  f = 5		IDAT too big
+  zc = 9  zm = 8  zs = 3  f = 5		IDAT too big
+
+Selecting parameters:
+  zc = 9  zm = 8  zs = 0  f = 0		IDAT size = 14056687
+
+Output IDAT size = 14056687 bytes (4780185 bytes decrease)
+Output file size = 14056765 bytes (4807773 bytes = 25.49% decrease)
+
+** Status report
+2 file(s) have been processed.
