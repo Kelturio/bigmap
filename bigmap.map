@@ -7,8 +7,8 @@ Reserved 1
 Reserved 2
 Magnetic Variation,,,E
 Map Projection,Mercator,PolyCal,No,AutoCalOnly,No,BSBUseWPX,No
-Point01,xy,    0,    0,in, deg,  51,40.96643,N,   7,15.05859,E, grid,   ,           ,           ,N
-Point02,xy, 14335, 14335,in, deg,  51,35.23859,N,   7,24.28711,E, grid,   ,           ,           ,N
+Point01,xy,    0,    0,in, deg,  51,40.55770,N,   7,15.71777,E, grid,   ,           ,           ,N
+Point02,xy, 12287, 12287,in, deg,  51,35.64812,N,   7,23.62793,E, grid,   ,           ,           ,N
 Point03,xy,     ,     ,in, deg,    ,        ,N,    ,        ,E, grid,   ,           ,           ,N
 Point04,xy,     ,     ,in, deg,    ,        ,N,    ,        ,E, grid,   ,           ,           ,N
 Point05,xy,     ,     ,in, deg,    ,        ,N,    ,        ,E, grid,   ,           ,           ,N
@@ -44,13 +44,13 @@ Moving Map Parameters = MM?    These follow if they exist
 MM0,Yes
 MMPNUM,4
 MMPXY,1,0,0
-MMPXY,2,14336,0
-MMPXY,3,14336,14336
-MMPXY,4,0,14336
-MMPLL,1,7.250977,51.682774
-MMPLL,2,7.404785,51.682774
-MMPLL,3,7.404785,51.587310
-MMPLL,4,7.250977,51.587310
-MM1B,0.74128195498496
+MMPXY,2,12288,0
+MMPXY,3,12288,12288
+MMPXY,4,0,12288
+MMPLL,1,7.261963,51.675962
+MMPLL,2,7.393799,51.675962
+MMPLL,3,7.393799,51.594135
+MMPLL,4,7.261963,51.594135
+MM1B,0.74128184607448
 MOP,Map Open Position,0,0
-IWH,Map Image Width/Height,14336,14336
+IWH,Map Image Width/Height,12288,12288
