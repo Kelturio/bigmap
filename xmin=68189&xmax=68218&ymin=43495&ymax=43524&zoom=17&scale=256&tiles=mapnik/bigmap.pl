@@ -43,7 +43,7 @@ for (my $x=0;$x<$xsize;$x++)
 			$tile->transparent($black);
 			}
 			$img->copy($tile, $x*256,$y*256,0,0,256,256);
-			if( ++$count == 10 ) { sleep 2; $count = 0; }
+			if( ++$count == 10 ) { sleep 0; $count = 0; }
 		}
     }
 }
